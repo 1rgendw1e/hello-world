@@ -2,6 +2,6 @@
 my first repository
 
 
-So just trying out some stuff. About time I get into GitHub. 
+So just trying out some stuff.
 
 Cheers
